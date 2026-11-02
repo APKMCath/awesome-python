@@ -1,3 +1,5 @@
+##"Bitte sende eine Datei an mich"
+
 # Contributing
 
 awesome-python is a shortlist, not a catalog. Each use case lists only its obvious choices, and most rejections mean "the use case is full", not "your project is bad". Read this whole page before opening a PR.
